@@ -6,7 +6,7 @@ while considering the economic impact measured by GDP per capita.
 The aim is to identify patterns and provide insights into how alcohol consumption is related to health outcomes on a global scale.
 
 ## Objectives
-- To 
+- To clean and visualize data on alcohol consumption in the world
 - To explore the direct correlation between alcohol consumption and AUD prevalence.
 - To adjust this relationship for GDP per capita to identify economic impacts.
 - To visualize the data and findings using advanced data visualization techniques.
@@ -53,14 +53,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Citation
 If you use this project or the data provided for your research, please cite it as follows:
-@misc{Global Alcohol Consumption by Countries Exploratory Data Analysis (EDA),
-author = {NikitaMitkin},
-title = {Global Alcohol Consumption by Countries Exploratory Data Analysis (EDA)},
-year = {2024},
-publisher = {GitHub},
-journal = {GitHub repository},
-howpublished = {\url{https://github.com/nikitamitkin/Exam-HEL8048.git}}
-}
+Nikita Mitkin, "Global Alcohol Consumption by Countries Exploratory Data Analysis (EDA)," 2024, GitHub Repository, [https://github.com/nikitamitkin/Exam-HEL8048](https://github.com/nikitamitkin/Exam-HEL8048).
 
 ## Contact
 For any additional questions or comments, please email [n.a.mitkin@gmail.com].
